@@ -1,0 +1,13 @@
+{
+  "name": "incremental-bars-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader from incremental-bars",
+  "main": "index.js",
+  "repository": "https://github.com/blikblum/incremental-bars-loader.git",
+  "author": "Luiz Américo <brandkarl@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "incremental-bars": "^1.0.4",
+    "loader-utils": "^1.1.0"
+  }
+}
